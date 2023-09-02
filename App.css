@@ -1,0 +1,62 @@
+body{
+  background-color: #b2b2b2;
+}
+.container{
+  background-color: #f2f2f2;
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+}
+input[type=text], select{
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+
+}
+input[type=password], select{
+  width: 88%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+button{
+  width: 30%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #45a049;
+}
+
+.header{
+  width: 100%;
+  background-color: rgb(7,2, 71);
+  height: 10vh;
+
+}
+.ui-define{
+  background-color: rgb(243,240, 243);
+  margin-left: 25%;
+  width: 50%;
+  padding: 20px 30px;
+  margin-top: 5%;
+}
+h1{
+  color: white;
+}
